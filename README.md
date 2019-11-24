@@ -1,6 +1,8 @@
 ## Design-Pattern-Lab-6
 
-# Given the following design, implement it in Java. Note: 
+# Given the following design, implement it in Java. 
+
+Note: 
 
 1.	You may add more attributes or operations to a class if necessary. Specifically, you may use meaningful operations for FBI_Agent and CIA_Agent classes.
 2.	Read textbook to see some example code snippets (pp. 170—174).
